@@ -21,31 +21,6 @@ Mantis has Ant Design principal on top of the MAterial UI React component librar
 
 The [Pro version](https://mantisdashboard.io) of Mantis react template includes features such as TypeScript, apps, authentication methods (i.e. JWT, Auth0, Firebase), advance components, form plugins, layouts, widgets, and more.
 
-| [Mantis Free](https://mantisdashboard.io/free) | [Mantis Pro](https://mantisdashboard.io)                                         |
-| ---------------------------------------------- | :------------------------------------------------------------------------------- |
-| **7** Demo pages                               | **85+** Demo pages                                                               |
-| -                                              | ✓ Multi-language                                                                 |
-| -                                              | ✓ Dark/Light Mode 🌓                                                             |
-| -                                              | ✓ TypeScript version                                                             |
-| -                                              | ✓ Design files (Figma)                                                           |
-| -                                              | ✓ Multiple color options                                                         |
-| -                                              | ✓ RTL                                                                            |
-| -                                              | ✓ JWT, Firebase, Auth0, AWS authentication                                       |
-| -                                              | ✓ [More components](https://mantisdashboard.io/components-overview/autocomplete) |
-| ✓ MIT License                                  | ✓ [Pro License](https://mui.com/store/license/)                                  |
-
-## Why Mantis?
-
-Mantis offers everything needed to build an advanced dashboard application. In the initial release, we included following high-end features,
-
-- Support React18.
-- Professional user interface.
-- Material UI React components.
-- Fully responsive, all modern browser supported.
-- Easy to use code structure
-- Flexible & high-Performance code
-- Simple documentation
-
 ## Free Mantis React version
 
 #### Preview
@@ -56,29 +31,7 @@ Mantis offers everything needed to build an advanced dashboard application. In t
 
 - [Download from GitHub](https://github.com/codedthemes/mantis-free-react-admin-template)
 
-## Mantis Pro version
 
-#### Preview
-
-- [Demo](https://mantisdashboard.io)
-
-#### Purchase
-
-- [Buy now](https://mui.com/store/items/mantis-react-admin-dashboard-template/)
-
-## Table of contents
-
-- [Getting started](#getting-started)
-- [Documentation](#documentation)
-- [Technology stack](#technology-stack)
-- [Author](#author)
-- [Issues?](#issues)
-- [License](#license)
-- [More Free React Templates](#more-free-react-material-admin-dashboard-templates)
-- [More Pro React Templates](#more-premium-react-material-admin-dashboard-templates)
-- [Follow us](#follow-us)
-
-## Getting Started
 
 1. Clone from Github
 
