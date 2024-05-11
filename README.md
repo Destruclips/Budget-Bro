@@ -77,22 +77,3 @@ Please generate a [GitHub issue](https://github.com/codedthemes/mantis-free-reac
 ## License
 
 - Licensed under [MIT](https://github.com/codedthemes/datta-able-bootstrap-dashboard/blob/master/LICENSE)
-
-## More Free React Material Admin Dashboard Templates
-
-- [Free Materially](https://codedthemes.com/item/materially-free-reactjs-admin-template/)
-- [Free Berry](https://mui.com/store/items/berry-react-material-admin-free/)
-
-## More premium React Material Admin Dashboard Templates
-
-- [Materially](https://codedthemes.com/item/materially-reactjs-admin-dashboard/)
-- [Berry](https://mui.com/store/items/berry-react-material-admin/)
-
-## Follow us
-
-- Website [https://mantisdashboard.io](https://mantisdashboard.io)
-- Blog [https://blog.mantisdashboard.io](https://blog.mantisdashboard.io)
-- CodedThemes [https://codedthemes.com](https://codedthemes.com)
-- Dribbble [https://dribbble.com/codedthemes](https://dribbble.com/codedthemes)
-- Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
-- Twitter [https://twitter.com/codedthemes](https://twitter.com/codedthemes)
